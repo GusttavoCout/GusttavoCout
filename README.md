@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe07bde9-0ac4-4d46-b3a2-ab3cab21d323" alt="Banner de programação" width="100%" />
+</p>
 
-<!--
-**GusttavoCout/GusttavoCout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gustavo Coutinho
 
-Here are some ideas to get you started:
+### Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor focado em criar aplicações mobile e web modernas, funcionais e bem estruturadas. Trabalho com experiências centradas no usuário, integração de dados e evolução contínua de produtos digitais.
+
+## Áreas de atuação
+
+- **Mobile:** React Native, Expo
+- **Web:** React, TypeScript
+- **Backend & Dados:** Supabase, APIs, autenticação e banco de dados
+- **Workflow:** Git, GitHub, versionamento e organização de projetos
+
+## Foco atual
+
+Construir soluções digitais com interfaces intuitivas, código sustentável e atenção aos detalhes.
