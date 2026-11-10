@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe07bde9-0ac4-4d46-b3a2-ab3cab21d323" alt="Banner de programação" width="100%" />
+  <img src="https://github.com/user-attachments/assets/1200bbd5-330b-42de-8a4f-0a90e6c6e3e2" alt="Mesa de trabalho com notebook" width="100%" />
 </p>
 
 # Gustavo Coutinho
